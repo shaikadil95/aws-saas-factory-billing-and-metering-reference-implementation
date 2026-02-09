@@ -26,7 +26,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <aws.lambda.java.core.version>1.2.0</aws.lambda.java.core.version>
-        <aws.lambda.java.log4j.version>1.2.0</aws.lambda.java.log4j.version>
+        <aws.lambda.java.log4j.version>1.6.2</aws.lambda.java.log4j.version>
         <aws.java.sdk.version>2.13.68</aws.java.sdk.version>
         <apache.log4j.version>2.17.1</apache.log4j.version>
         <stripe.java.version>20.29.0</stripe.java.version>
